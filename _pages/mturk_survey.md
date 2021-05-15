@@ -1,22 +1,10 @@
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.34 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Mon May 03 2021 16:26:18 GMT-0700 (PDT)
-* Source doc: fs1_mturk_setup
------>
+---
+permalink: /mturk_survey/
+title: "Mechanical Turk Survey"
+author_profile: false
+redirect_from: 
+  - /mturk_survey.html
+---
 
 
 # Mechanical Turk Survey Link Instructions

@@ -1,3 +1,10 @@
+---
+permalink: /interventions/
+title: "Interventions"
+author_profile: false
+redirect_from: 
+  - /Interventions.html
+---
 # SUMMATIVE EVALUATION
 
 The formative evaluation helped us roadmap implementations, craft learning materials, and plan an initial summative evaluation.

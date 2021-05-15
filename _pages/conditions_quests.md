@@ -1,3 +1,10 @@
+---
+permalink: /conditions_quests/
+title: "Conditions Quests"
+author_profile: false
+redirect_from: 
+  - /conditions_quests.html
+---
 ||||
 |--- |--- |--- |
 |**Condition**|**Quest Name**|**Game Type**|

@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Field Study Survey"
+    url: /fs1_survey/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Mechanical Turk Survey"
+    url: /mturk_survey/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Conditions Quests Descriptions"
+    url: /conditions_quests/
+
+  - title: "Sequences Instructions"
+    url: /sequences_instructions/
+  
+  - title: "Interventions Description"
+    url: /interventions/

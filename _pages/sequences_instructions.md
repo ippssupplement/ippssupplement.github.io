@@ -1,14 +1,22 @@
-# Sequences Instructions
-
-## Quest Instructions
+---
+permalink: /sequences_instructions/
+title: "Sequences Instructions"
+author_profile: false
+redirect_from: 
+  - /sequences_instructions.html
+---
+Quest Instructions
+------
 You are going to visit family friends! During this quest (4 puzzles in total), you will  bake a pie, ask for help, and take a long car trip to their house.
 
-## Reminders & Hints
+Reminders & Hints
+------
 A sprite is a character or object you can control with programming blocks.
 
 If you follow the instructions precisely, you can earn the **highest score** using the **fewest moves** for each puzzle. This is your goal!  Choose carefully before moving each block from the palette.
 
-## Warm up: Let’s Bake a Cake
+Warm up: Let’s Bake a Cake
+------
 In this puzzle, you are going to bake a pie for your friends.
 
 First, you go to the location (x= 170, y=0), which is where the oven is located.
