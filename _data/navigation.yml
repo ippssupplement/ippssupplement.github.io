@@ -6,6 +6,9 @@ main:
   - title: "Mechanical Turk Survey"
     url: /mturk_survey/
 
+  - title: "Survey Results"
+    url: /survey_results/
+
   - title: "Conditions Quests Descriptions"
     url: /conditions_quests/
 
