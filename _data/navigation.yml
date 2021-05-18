@@ -9,6 +9,12 @@ main:
   - title: "Survey Results"
     url: /survey_results/
 
+  - title: "Demographics"
+    url: /demographics/
+
+  - title: "Usage Data"
+    url: /usage_data/
+
   - title: "Conditions Quests Descriptions"
     url: /conditions_quests/
 
