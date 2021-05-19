@@ -1,12 +1,11 @@
 ---
-permalink: /interventions/
+permalink: /intervention/
 title: "Intervention"
 author_profile: false
 redirect_from: 
-  - /Interventions.html
+  - /Intervention.html
 ---
 
-# Intervention
 To produce evidence supporting answers to RQ1-2, we organized a 10-step between-subjects study via Mechanical Turk.  The steps involved:
 1. creation of a username in the learning system;
 1. a background survey;

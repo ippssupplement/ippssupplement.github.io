@@ -1,12 +1,11 @@
 ---
-permalink: /fs1_survey/
-title: "Field Study Survey"
+permalink: /background_survey/
+title: "Background Survey"
 author_profile: false
 redirect_from: 
   - /fs1_survey.html
+  - /background_survey.html
 ---
-Background Information
-------
 
 1. What is your SAGE Username (used to login to uat.cu-sage.org)?
     <p class="form-inline">

@@ -18,11 +18,11 @@ We surveyed grade 6-9 teachers to learn teacher perceptions of student engagemen
 
 Contents
 ======
-1. [Field Study Survey](/fs1_survey/)
+1. [Intervention Description](/intervention/)
+1. [Background Survey](/fs1_survey/)
 1. [Mechanical Turk Survey](/mturk_survey/)
 1. [Survey Results](/survey_results/)
 1. [Demographics](/demographics/)
 1. [Usage Data](/usage_data/)
 1. [Conditions Quests Descriptions](/conditions_quests/)
 1. [Sequences Instructions](/sequences_instructions/)
-1. [Interventions Description](/interventions/)

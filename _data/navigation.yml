@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Field Study Survey"
-    url: /fs1_survey/
+  - title: "Intervention Description"
+    url: /intervention/
+
+  - title: "Background Survey"
+    url: /background_survey/
 
   - title: "Mechanical Turk Survey"
     url: /mturk_survey/
@@ -20,6 +23,3 @@ main:
 
   - title: "Sequences Instructions"
     url: /sequences_instructions/
-  
-  - title: "Interventions Description"
-    url: /interventions/
