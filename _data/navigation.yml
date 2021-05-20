@@ -3,8 +3,8 @@ main:
   - title: "Intervention Description"
     url: /intervention/
 
-  - title: "Background Survey"
-    url: /background_survey/
+  - title: "Surveys"
+    url: /surveys/
 
   - title: "Mechanical Turk Survey"
     url: /mturk_survey/
