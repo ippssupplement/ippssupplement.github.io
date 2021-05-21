@@ -18,8 +18,5 @@ main:
   - title: "Usage Data"
     url: /usage_data/
 
-  - title: "Conditions Quests Descriptions"
-    url: /conditions_quests/
-
   - title: "Sequences Instructions"
     url: /sequences_instructions/
