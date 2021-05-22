@@ -22,13 +22,13 @@ Note that some activities listed below (4, 6, 8) are labeled: <span style="colo
 
 
 1. Visit [https://dev.cu-sage.org/#/reg](https://dev.cu-sage.org/#/reg) and create an account. Per MTurk's policy, do not enter any personally identifiable information, but make sure to record the Username entered because you will need to enter it throughout the experiment.  The Username is not required to be an email address.
-2. Complete this [background survey](https://barnard.az1.qualtrics.com/jfe/form/SV_6tANvppcS2uGN9z).
+2. Complete this [background survey](/background_survey/).
 3. Review this [introduction](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=55ce84bb-c317-4d84-8074-abbb00a89892) to the learning system and to the CT concept of Sequences.
-4. Complete the [pre-test](https://barnard.az1.qualtrics.com/jfe/form/SV_9nSwQ128EGvJhdP). <span style="color:#f88c00">_Timed Activity_</span>
-5. Provide [feedback on the pre-test](https://barnard.az1.qualtrics.com/jfe/form/SV_2ttGeiB6RG5QKDb).
+4. Complete the [pre-test](/fs1-pre-test-survey-sequences/). <span style="color:#f88c00">_Timed Activity_</span>
+5. Provide [feedback on the pre-test](/files/03_puzzle_cognitive_load_survey.pdf).
 6. Login into [https://dev.cu-sage.org/](https://dev.cu-sage.org/), navigate to the assigned Quest, and attempt to complete four puzzles in the learning system. Please do not start the puzzles without first reviewing the instructions labeled _Important Instructions_, as those are designed to accompany the puzzles. When you complete a puzzle or the timer expires, navigate to the next puzzle. Proceed to step 7 after you have attempted all four puzzles <span style="color:#f88c00">_Timed Activity_</span> \
 **Note: we are able to track interactions with the puzzles and have had to reject many submissions that would have otherwise been accepted had this step been completed.  Please consider skipping this HIT if not intending to attempt to solve the puzzles.**
-7. Provide [puzzle feedback](https://barnard.az1.qualtrics.com/jfe/form/SV_cD7B3zMk5dZG0jH).
-8. Complete the [post-test](https://barnard.az1.qualtrics.com/jfe/form/SV_b2UwwhgHuFhHxfD). <span style="color:#f88c00">_Timed Activity_</span>
-9. Provide [feedback on the post-test](https://barnard.az1.qualtrics.com/jfe/form/SV_3I9d9XFE1Q1HSeN).
-10. Provide [feedback on the experiment](https://barnard.az1.qualtrics.com/jfe/form/SV_3dwdcTNAAADnj5H), and copy the code presented at the end.  Submit the feedback survey, and then paste the code into the box below.
+7. Provide [puzzle feedback](/files/03_puzzle_cognitive_load_survey.pdf).
+8. Complete the [post-test](/files/04_post-test_survey.pdf). <span style="color:#f88c00">_Timed Activity_</span>
+9. Provide [feedback on the post-test](/files/05_post-test_cognitive_load_survey.pdf).
+10. Provide [feedback on the experiment](/files/06_intrinsic_motivation_and_attitude_survey.pdf), and copy the code presented at the end.  Submit the feedback survey, and then paste the code into the box below.
