@@ -30,7 +30,8 @@ Number of blocks required to solve this puzzle: 6
 The solution of this warm up phase is provided below. Try to solve the puzzle yourself before comparing it with the solution.
 
 Warm up Solution:
-![](/images/sequences_instructions/fs1_c1_i0.PNG)
+{% include image-gallery.html folder="/images/sequences_instructions/c1" %}
+![](/images/sequences_instructions/c1/fs1_c1_i0.PNG)
 * Don’t forget to use the when green flag clicked block to start the puzzle!
 * Use this block to go to a specified location of the oven.
 * This block allows the puzzle to wait for 3 seconds before proceeding to the next step. In this case, we have to wait 3 seconds for the pie to bake.
@@ -55,7 +56,7 @@ You tried a slice of your pie and realized that you forgot to add sugar! In this
 1. After you mix, you say “It’s time to bake”.
 
 Number of blocks required to solve this puzzle: 16
-![](/images/sequences_instructions/fs1_c1_i1.PNG)
+![](/images/sequences_instructions/c1/fs1_c1_i1.png)
 
 Puzzle 2: Are we there yet? - Part One
 ------
@@ -66,7 +67,7 @@ During the trip, she asks “Are we there yet?” for 5 seconds, then the car mo
 This sequence happens six times until finally you say “we are there!”
 
 Number of blocks required to solve this puzzle: 14
-![](/images/sequences_instructions/fs1_c1_i2.PNG)
+![](/images/sequences_instructions/c1/fs1_c1_i2.PNG)
 
 Puzzle 3: Are we there yet? - Part Two
 ------
@@ -82,4 +83,4 @@ During the trip, she asks “Are we there yet?” for 5 seconds every time the c
 She repeats six times until finally you say “we are there!”
 
 Number of blocks required to solve this puzzle: 5
-![](/images/sequences_instructions/fs1_c1_i3.PNG)
+![](/images/sequences_instructions/c1/fs1_c1_i3.PNG)
