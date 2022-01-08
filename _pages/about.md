@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Supplement site for Integrating Parsons Puzzles with Scratch submitted to the 29TH International Conference On Computers In Education"
+title: "Supplement site for Integrating Parsons Puzzles with Scratch"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
